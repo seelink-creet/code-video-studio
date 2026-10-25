@@ -1,0 +1,40 @@
+code-video-studio — Copyright (c) 2026 Link Liu (https://github.com/seelink-creet)
+
+This package is dual-licensed / 本技能包采用双许可：
+
+1. Documentation and text — SKILL.md, README.md, AUTHORS.md, references/, templates/, en/ (all .md files)
+   文档与文字（全部 .md 文件）
+   Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+   Attribution: "code-video-studio by Link Liu (https://github.com/seelink-creet), licensed under CC BY 4.0"
+   署名格式：“code-video-studio，作者 Link Liu（https://github.com/seelink-creet），CC BY 4.0 许可”
+
+2. Code — scripts/ and examples/ (all .py files)
+   代码（scripts/ 与 examples/ 下的全部 .py 文件）
+   Licensed under the MIT License below.
+
+Third-party music, sound effects, fonts and samples that you use in your own films are NOT covered by this
+licence; check and credit each one (see references/music_sound.md).
+你在自己片子里使用的第三方音乐、音效、字体、采样不在本许可范围内，请逐条核对并署名。
+
+--------------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2026 Link Liu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
